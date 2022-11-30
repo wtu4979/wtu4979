@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-![Leetcode Stats](https://leetcard.rainbowbearfish.cool/rainbowbearfish?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/rainbowbearfish?theme=dark)
 <!---
 wtu4979/wtu4979 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
