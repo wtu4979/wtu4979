@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wilson!
 - :computer: I’m interested in full stack development and AI/ML
-- :art: I’m currently learning UI/UX design.
+- :art: I’m currently learning UI/UX design and Human-Computer Interaction.
 
 ![](https://komarev.com/ghpvc/?username=wtu4979&color=blue&style=for-the-badge)
 
